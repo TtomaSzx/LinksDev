@@ -31,6 +31,7 @@ body {
     background-position: top center;
     background-size: cover;
     */
+    /*legal*/
 
     /*background: color-image repeat position/size */
     background: var(--bg-url) no-repeat top center/cover;
